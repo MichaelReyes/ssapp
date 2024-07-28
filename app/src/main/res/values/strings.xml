@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_success">Login Successful!</string>
+    <string name="login_failed">Login Failed: %s</string>
+    <string name="welcome_header">Welcome to my application</string>
+    <string name="welcome_body">We are glad to have you!</string>
+</resources>
